@@ -90,6 +90,8 @@ textarea {
 
 html {
         font-size: 16px;
+        line-height: 1.4;
+        color: #222;
 }
 
 body {
@@ -99,6 +101,7 @@ body {
 
 ul, 
 ol {
+      list-style-type: none;
 
 }
 
@@ -129,7 +132,7 @@ figure {
 }
 
 address {
-
+          font-style: normal;
 }
 
 .content-wrapper {
